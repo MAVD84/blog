@@ -2,7 +2,7 @@
  
 // Site Settings 
 $siteName = 'subscribe'; 
-$siteEmail = 'iamexpressed10@gmail.com.com'; 
+$siteEmail = 'iamexpressed10@gmail.com'; 
  
 // Database configuration 
 define('DB_HOST', 'sql107.epizy.com'); 
